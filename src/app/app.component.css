@@ -1,0 +1,7 @@
+.maincontainer {
+  width: 90%;
+  height: 90%;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+}
